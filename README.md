@@ -8,7 +8,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Federa
 - 💻 Foco em desenvolvimento back-end
 - 🌱 Atualmente estudando: python
 - 📍 Curitiba, PR
-- 🎯 Busco oportunidades de estágio em desenvolvimento back-end
+- 🎯 Busco oportunidades de estágio principalmente em  desenvolvimento back-end mas tambem outras áreas relacionadas a TI
 
 ## 🛠️ Tecnologias
 
